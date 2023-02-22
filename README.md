@@ -4,7 +4,7 @@
 
 C++과 OpenGL로 구현하는 탄막슈팅게임 논문에서 구현된 패턴들
 
-실행 환경 Windows 10, Visual Studio 2019, OpenGL(glut), C++
+실행 환경 : Windows 10, Visual Studio 2019, OpenGL(glut), C++
 
 
 ### 벚꽂 곡선 패턴
