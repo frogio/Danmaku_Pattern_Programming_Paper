@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\201620051 김준무\4학년 2학기\졸업 논문\실험\OpenGL_Danmaku\OpenGL_Danmaku\main.cpp(56,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+Release\Object.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  코드를 생성하고 있습니다.
+  59 of 320 functions (18.4%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenGL_Danmaku.vcxproj -> D:\201620051 김준무\4학년 2학기\졸업 논문\실험\OpenGL_Danmaku\Release\OpenGL_Danmaku.exe

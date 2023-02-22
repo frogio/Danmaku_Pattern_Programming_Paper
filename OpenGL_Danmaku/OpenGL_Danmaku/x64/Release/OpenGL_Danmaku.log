@@ -1,0 +1,17 @@
+﻿  Object.h
+  Pattern.cpp
+  main.cpp
+D:\201620051 김준무\4학년 2학기\졸업 논문\실험\OpenGL_Danmaku\OpenGL_Danmaku\main.cpp(32,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+x64\Release\Object.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutReshapeFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glutCreateWindowWithExit
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutPostRedisplay
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutIdleFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutInitDisplayMode
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutDisplayFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutMainLoop
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutInitWindowPosition
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutInitWindowSize
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutSwapBuffers
+Pattern.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl CBullet::CBullet(float,float,float,float,float,float,float)" (??0CBullet@@QEAA@MMMMMMM@Z)
+D:\201620051 김준무\4학년 2학기\졸업 논문\실험\OpenGL_Danmaku\x64\Release\OpenGL_Danmaku.exe : fatal error LNK1120: 11개의 확인할 수 없는 외부 참조입니다.
