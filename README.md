@@ -1,6 +1,6 @@
 # Danmaku_Pattern_Programming
 
-졸업논문 테스트 환경
+201620051 김준무 졸업논문 테스트 환경
 
 C++과 OpenGL로 구현하는 탄막슈팅게임 논문에서 구현된 패턴들
 
